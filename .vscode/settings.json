@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\jar_files\\artoolkitplus-2.3.1-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\ffmpeg-6.0-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\flycapture-2.13.3.31-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\javacpp-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\javacv-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\javafx-base-11.jar",
+        "c:\\Program Files\\jar_files\\javafx-base-11-linux.jar",
+        "c:\\Program Files\\jar_files\\javafx-graphics-11.jar",
+        "c:\\Program Files\\jar_files\\javafx-graphics-11-linux.jar",
+        "c:\\Program Files\\jar_files\\leptonica-1.83.0-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\libdc1394-2.2.6-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\libfreenect-0.5.7-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\libfreenect2-0.2.0-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\librealsense-1.12.4-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\librealsense2-2.53.1-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\openblas-0.3.23-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\opencv-4.7.0-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\tesseract-5.3.1-1.5.9.jar",
+        "c:\\Program Files\\jar_files\\videoinput-0.200-1.5.9.jar"
+    ]
+}
